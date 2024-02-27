@@ -1,0 +1,10 @@
+{
+    "faultlocalizationResultPath": "/home/fanluxi/pmbfl/FOMfaultlocalizationResult",
+    "djfeaturePath": "/home/public/d4j/feature",
+    "dynamicFeaturePath": "/home/public/d4j/dynamicFeature",
+    "djSrcPath": "/home/fanluxi/d4j/djSrcClean",
+    "outputCleanPath": "/home/fanluxi/d4j/outputClean",
+    "tpydataPath": "/home/fanluxi/tpydata",
+    "allTestsPath": "/home/fanluxi/d4j/all_tests/",
+    "ablationPath": "/home/fanluxi/pmbfl/ablation"
+}

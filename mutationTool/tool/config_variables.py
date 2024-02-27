@@ -37,7 +37,7 @@ sourcePath = {
     'Time': {'27': 'src/main/java'}
 }
 
-password = "Van@1999."
+password = ""
 
 project = {
     "Chart": 26,
