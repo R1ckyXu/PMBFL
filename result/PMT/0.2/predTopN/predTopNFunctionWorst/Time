@@ -1,0 +1,114 @@
+{
+  "pred_topN_randomForestModel.json": {
+    "dstar": {
+      "top1": 10,
+      "top2": 11,
+      "top3": 12,
+      "top4": 13,
+      "top5": 15,
+      "top10": 17,
+      "top15": 17,
+      "top20": 18
+    },
+    "ochiai": {
+      "top1": 10,
+      "top2": 11,
+      "top3": 12,
+      "top4": 12,
+      "top5": 14,
+      "top10": 17,
+      "top15": 17,
+      "top20": 18
+    },
+    "gp13": {
+      "top1": 9,
+      "top2": 11,
+      "top3": 12,
+      "top4": 12,
+      "top5": 14,
+      "top10": 16,
+      "top15": 17,
+      "top20": 18
+    },
+    "op2": {
+      "top1": 9,
+      "top2": 11,
+      "top3": 12,
+      "top4": 12,
+      "top5": 14,
+      "top10": 16,
+      "top15": 17,
+      "top20": 18
+    },
+    "jaccard": {
+      "top1": 10,
+      "top2": 11,
+      "top3": 12,
+      "top4": 13,
+      "top5": 14,
+      "top10": 17,
+      "top15": 17,
+      "top20": 18
+    },
+    "russell": {
+      "top1": 6,
+      "top2": 9,
+      "top3": 9,
+      "top4": 10,
+      "top5": 12,
+      "top10": 15,
+      "top15": 16,
+      "top20": 18
+    },
+    "turantula": {
+      "top1": 10,
+      "top2": 11,
+      "top3": 13,
+      "top4": 13,
+      "top5": 14,
+      "top10": 17,
+      "top15": 17,
+      "top20": 18
+    },
+    "naish1": {
+      "top1": 6,
+      "top2": 6,
+      "top3": 7,
+      "top4": 7,
+      "top5": 8,
+      "top10": 8,
+      "top15": 8,
+      "top20": 9
+    },
+    "binary": {
+      "top1": 0,
+      "top2": 0,
+      "top3": 0,
+      "top4": 0,
+      "top5": 0,
+      "top10": 0,
+      "top15": 1,
+      "top20": 2
+    },
+    "crosstab": {
+      "top1": 5,
+      "top2": 6,
+      "top3": 6,
+      "top4": 7,
+      "top5": 7,
+      "top10": 10,
+      "top15": 10,
+      "top20": 12
+    },
+    "dstar2": {
+      "top1": 10,
+      "top2": 11,
+      "top3": 12,
+      "top4": 14,
+      "top5": 15,
+      "top10": 17,
+      "top15": 17,
+      "top20": 18
+    }
+  }
+}

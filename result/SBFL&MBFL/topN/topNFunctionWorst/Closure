@@ -1,0 +1,166 @@
+{
+  "sbfl.json": {
+    "dstar": {
+      "top1": 6,
+      "top2": 10,
+      "top3": 11,
+      "top4": 16,
+      "top5": 16,
+      "top10": 22
+    },
+    "ochiai": {
+      "top1": 6,
+      "top2": 10,
+      "top3": 11,
+      "top4": 16,
+      "top5": 16,
+      "top10": 22
+    },
+    "gp13": {
+      "top1": 6,
+      "top2": 9,
+      "top3": 12,
+      "top4": 15,
+      "top5": 16,
+      "top10": 22
+    },
+    "op2": {
+      "top1": 6,
+      "top2": 9,
+      "top3": 12,
+      "top4": 15,
+      "top5": 16,
+      "top10": 22
+    },
+    "jaccard": {
+      "top1": 6,
+      "top2": 10,
+      "top3": 11,
+      "top4": 15,
+      "top5": 16,
+      "top10": 22
+    },
+    "russell": {
+      "top1": 0,
+      "top2": 0,
+      "top3": 0,
+      "top4": 2,
+      "top5": 3,
+      "top10": 11
+    },
+    "turantula": {
+      "top1": 6,
+      "top2": 9,
+      "top3": 12,
+      "top4": 15,
+      "top5": 16,
+      "top10": 22
+    },
+    "naish1": {
+      "top1": 6,
+      "top2": 9,
+      "top3": 11,
+      "top4": 14,
+      "top5": 15,
+      "top10": 20
+    },
+    "binary": {
+      "top1": 1,
+      "top2": 1,
+      "top3": 1,
+      "top4": 1,
+      "top5": 1,
+      "top10": 5
+    },
+    "crosstab": {
+      "top1": 0,
+      "top2": 2,
+      "top3": 2,
+      "top4": 3,
+      "top5": 5,
+      "top10": 9
+    }
+  },
+  "mbfl.json": {
+    "dstar": {
+      "top1": 4,
+      "top2": 6,
+      "top3": 9,
+      "top4": 13,
+      "top5": 16,
+      "top10": 25
+    },
+    "ochiai": {
+      "top1": 12,
+      "top2": 18,
+      "top3": 20,
+      "top4": 21,
+      "top5": 23,
+      "top10": 24
+    },
+    "gp13": {
+      "top1": 11,
+      "top2": 16,
+      "top3": 20,
+      "top4": 21,
+      "top5": 22,
+      "top10": 24
+    },
+    "op2": {
+      "top1": 11,
+      "top2": 16,
+      "top3": 20,
+      "top4": 21,
+      "top5": 22,
+      "top10": 25
+    },
+    "jaccard": {
+      "top1": 12,
+      "top2": 18,
+      "top3": 21,
+      "top4": 22,
+      "top5": 22,
+      "top10": 24
+    },
+    "russell": {
+      "top1": 0,
+      "top2": 3,
+      "top3": 6,
+      "top4": 6,
+      "top5": 9,
+      "top10": 17
+    },
+    "turantula": {
+      "top1": 13,
+      "top2": 19,
+      "top3": 21,
+      "top4": 22,
+      "top5": 22,
+      "top10": 24
+    },
+    "naish1": {
+      "top1": 11,
+      "top2": 16,
+      "top3": 19,
+      "top4": 20,
+      "top5": 20,
+      "top10": 23
+    },
+    "binary": {
+      "top1": 0,
+      "top2": 0,
+      "top3": 0,
+      "top4": 0,
+      "top5": 0,
+      "top10": 7
+    },
+    "crosstab": {
+      "top1": 2,
+      "top2": 4,
+      "top3": 7,
+      "top4": 9,
+      "top5": 9,
+      "top10": 11
+    }
+  }
+}

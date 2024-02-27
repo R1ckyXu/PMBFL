@@ -1,0 +1,92 @@
+{
+  "selective.json": {
+    "dstar": {
+      "top1": 3,
+      "top2": 5,
+      "top3": 10,
+      "top4": 10,
+      "top5": 12,
+      "top10": 18
+    },
+    "ochiai": {
+      "top1": 6,
+      "top2": 13,
+      "top3": 13,
+      "top4": 14,
+      "top5": 15,
+      "top10": 20
+    },
+    "gp13": {
+      "top1": 6,
+      "top2": 8,
+      "top3": 13,
+      "top4": 15,
+      "top5": 15,
+      "top10": 20
+    },
+    "op2": {
+      "top1": 6,
+      "top2": 8,
+      "top3": 13,
+      "top4": 15,
+      "top5": 15,
+      "top10": 20
+    },
+    "jaccard": {
+      "top1": 6,
+      "top2": 13,
+      "top3": 13,
+      "top4": 14,
+      "top5": 15,
+      "top10": 20
+    },
+    "russell": {
+      "top1": 2,
+      "top2": 6,
+      "top3": 13,
+      "top4": 15,
+      "top5": 15,
+      "top10": 20
+    },
+    "turantula": {
+      "top1": 10,
+      "top2": 12,
+      "top3": 12,
+      "top4": 13,
+      "top5": 14,
+      "top10": 20
+    },
+    "naish1": {
+      "top1": 6,
+      "top2": 8,
+      "top3": 8,
+      "top4": 9,
+      "top5": 9,
+      "top10": 12
+    },
+    "binary": {
+      "top1": 0,
+      "top2": 0,
+      "top3": 0,
+      "top4": 0,
+      "top5": 1,
+      "top10": 6
+    },
+    "crosstab": {
+      "top1": 7,
+      "top2": 9,
+      "top3": 10,
+      "top4": 12,
+      "top5": 12,
+      "top10": 18
+    },
+    "dstar2": {
+      "top1": 3,
+      "top2": 10,
+      "top3": 10,
+      "top4": 10,
+      "top5": 12,
+      "top10": 18
+    }
+  }
+}

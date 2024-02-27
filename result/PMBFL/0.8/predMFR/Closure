@@ -1,0 +1,15 @@
+{
+  "pred_MFR_randomForestModel.json": {
+    "dstar": 5.2,
+    "ochiai": 5.2,
+    "gp13": 5.24,
+    "op2": 4.48,
+    "jaccard": 5.16,
+    "russell": 10.52,
+    "turantula": 5.04,
+    "naish1": 8.6,
+    "binary": 30.32,
+    "crosstab": 17.72,
+    "dstar2": 5.24
+  }
+}

@@ -1,0 +1,92 @@
+{
+    "pred_topN_randomForestModel.json": {
+        "dstar": {
+            "top1": 11,
+            "top2": 11,
+            "top3": 11,
+            "top4": 11,
+            "top5": 11,
+            "top10": 13
+        },
+        "ochiai": {
+            "top1": 10,
+            "top2": 11,
+            "top3": 11,
+            "top4": 11,
+            "top5": 11,
+            "top10": 13
+        },
+        "gp13": {
+            "top1": 11,
+            "top2": 11,
+            "top3": 11,
+            "top4": 11,
+            "top5": 11,
+            "top10": 13
+        },
+        "op2": {
+            "top1": 11,
+            "top2": 11,
+            "top3": 11,
+            "top4": 11,
+            "top5": 11,
+            "top10": 13
+        },
+        "jaccard": {
+            "top1": 11,
+            "top2": 11,
+            "top3": 11,
+            "top4": 11,
+            "top5": 11,
+            "top10": 13
+        },
+        "russell": {
+            "top1": 4,
+            "top2": 9,
+            "top3": 10,
+            "top4": 10,
+            "top5": 11,
+            "top10": 11
+        },
+        "turantula": {
+            "top1": 9,
+            "top2": 10,
+            "top3": 10,
+            "top4": 11,
+            "top5": 11,
+            "top10": 13
+        },
+        "naish1": {
+            "top1": 6,
+            "top2": 6,
+            "top3": 6,
+            "top4": 6,
+            "top5": 6,
+            "top10": 7
+        },
+        "binary": {
+            "top1": 0,
+            "top2": 0,
+            "top3": 0,
+            "top4": 0,
+            "top5": 0,
+            "top10": 0
+        },
+        "crosstab": {
+            "top1": 3,
+            "top2": 5,
+            "top3": 5,
+            "top4": 5,
+            "top5": 5,
+            "top10": 6
+        },
+        "dstar2": {
+            "top1": 11,
+            "top2": 11,
+            "top3": 11,
+            "top4": 11,
+            "top5": 11,
+            "top10": 13
+        }
+    }
+}

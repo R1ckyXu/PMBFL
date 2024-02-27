@@ -1,0 +1,39 @@
+{
+  "mbfl.json": {
+    "dstar": 5.64,
+    "ochiai": 5.0,
+    "gp13": 4.92,
+    "op2": 4.28,
+    "jaccard": 4.96,
+    "russell": 10.96,
+    "turantula": 5.0,
+    "naish1": 5.4,
+    "binary": 30.68,
+    "crosstab": 21.12
+  },
+  "sbfl.json": {
+    "dstar": 8.44,
+    "ochiai": 8.44,
+    "gp13": 8.16,
+    "op2": 8.16,
+    "jaccard": 8.52,
+    "russell": 17.8,
+    "turantula": 8.56,
+    "naish1": 10.92,
+    "binary": 43.4,
+    "crosstab": 22.36
+  },
+  "hmer.json": {
+    "dstar": 1.28,
+    "ochiai": 1.52,
+    "gp13": 1.6,
+    "op2": 1.16,
+    "jaccard": 1.52,
+    "russell": 1.68,
+    "turantula": 1.52,
+    "naish1": 1.68,
+    "binary": 1.6,
+    "crosstab": 1.08,
+    "dstar2": 1.24
+  }
+}
