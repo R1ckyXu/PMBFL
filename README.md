@@ -32,7 +32,7 @@ The **trainModel** file contains the PMBFL implementation and statistical method
 
 - main.py contains the implementation of PMBFL using various classification model algorithms, open the comments as needed and run main.py.
 
-- You can run count.py to count the results of PMBFL execution, and the results are saved in ". /predTopN", ". /predMAR", ". /predMFR".
+- You can run count.py to count the results of PMBFL execution, and the results are saved in ". /predTopN/", ". /predMAR/", ". /predMFR/".
 
 - If you want to clear the existing model and statistics you can run clearModel.py. Also, if you want to do multiple experiments remember to clear the model first and then run main.py again to get the latest version of the training model.
 
