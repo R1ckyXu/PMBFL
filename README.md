@@ -15,7 +15,7 @@ The **featureExtraction** file is a tool file for feature extraction.
 The **mutationTool** file is used to generate mutants and to locate faults in combination with MBFL and SBFL techniques.
 
 - Mutant generation and fault localization can be performed by running main.py.
-- Simply run reCalMetrics.py to perform statistics on the evaluation metrics, and the results will be saved separately under the ". /topN/", ". /MAR/", ". /MFR
+- Simply run reCalMetrics.py to perform statistics on the evaluation metrics, and the results will be saved separately under the ". /topN/", ". /MAR/", ". /MFR/".
 
 One thing to note is that if you get a log message about insufficient permissions when running the main method, you may need to go to the ". /mutationTool/tool" folder and modify the permissions of the major script. The specific command is shown below:
 
