@@ -1,6 +1,6 @@
 # PMBFL: Predictive Mutation-Based Fault Localization
 
-##### Feature extraction:
+## Feature extraction:
 
 The **featureExtraction** file is a tool file for feature extraction. 
 
@@ -10,7 +10,7 @@ The **featureExtraction** file is a tool file for feature extraction.
 
 
 
-##### Generate mutants & SBFL & MBFL:
+## Generate mutants & SBFL & MBFL:
 
 The **mutationTool** file is used to generate mutants and to locate faults in combination with MBFL and SBFL techniques.
 
@@ -26,7 +26,7 @@ chmod 777 runMajor.sh
 
 
 
-##### Using PMBFL:
+## Using PMBFL:
 
 The **trainModel** file contains the PMBFL implementation and statistical methods.
 
@@ -38,13 +38,13 @@ The **trainModel** file contains the PMBFL implementation and statistical method
 
   
 
-##### Experimental results:
+## Experimental results:
 
 The **result** folder stores all the experimental results including SBFL, MBFL, PMBFL, PMT, HMER, and SELECTIVE. each method has result files with different sampling rates.
 
 
 
-##### Remarks：
+## Remarks：
 
 - This tool passed experiment on the "Linux version 3.10.0-957.el7.x86_64".
 - python version : 3.10.6
