@@ -12,7 +12,7 @@ import numpy as np
 from tqdm import trange
 
 # 获取所有java文件
-import Tool_CC
+# import Tool_CC
 
 
 def getJavaFile(sourcePath):
@@ -402,7 +402,7 @@ def readFile(versionPath, error_pro_ver, saveSpace=False, saveAgain=True):
     #         if correct_flag == 0:
     #             trueCC.append(row_cov)
     #trueCC = Tool_CC.getTCC(covMatrix,inVector)
-    trueCC = Tool_CC.getTCC(covMatrix,inVector)
+    # trueCC = Tool_CC.getTCC(covMatrix,inVector)
 
     savedata = {}
     savedata[1] = covMatrix
@@ -412,7 +412,7 @@ def readFile(versionPath, error_pro_ver, saveSpace=False, saveAgain=True):
     savedata[5] = passN
     savedata[6] = realCC
     savedata[7] = failIndex
-    savedata[8] = trueCC
+    # savedata[8] = trueCC
 
     # 判断失败测试用例覆盖信息是否全为0
     res = test_error(covMatrix,inVector)
