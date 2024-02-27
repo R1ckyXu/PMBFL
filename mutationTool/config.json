@@ -1,0 +1,14 @@
+{
+    "D4jHome": "/home/fanluxi/defects4j-master",
+    "djSrcPath": "/home/fanluxi/d4j/djSrcClean",
+    "outputCleanPath": "/home/fanluxi/d4j/outputClean",
+    "tpydataPath": "/home/fanluxi/d4j/tpydata",
+    "faliingTestOutputPath": "/home/fanluxi/d4j/failingTestOutput/",
+    "mutantsFilePath": "/home/fanluxi/pmbfl/mutantsFile",
+    "SOMmutantsFile": "/home/fanluxi/pmbfl/SOMmutantsFile",
+    "tempSrcPath": "/home/fanluxi/pmbfl/djSrc-temp/",
+    "faultlocalizationResultPath": "/home/fanluxi/pmbfl/FOMfaultlocalizationResult",
+    "FOMprocessedData": "/home/fanluxi/pmbfl/FOMprocessedData",
+    "SOMprocessedData": "/home/fanluxi/pmbfl/SOMprocessedData",
+    "SOMfaultlocalizationResultPath": "/home/fanluxi/pmbfl/SOMfaultlocalizationResult"
+}
